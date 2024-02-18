@@ -1,3 +1,4 @@
+http://example.com/equipment/index.html
 http://example.com/article/4a17b156.html
 http://example.com/categories/index.html
 http://example.com/
