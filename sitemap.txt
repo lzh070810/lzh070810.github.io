@@ -1,3 +1,7 @@
+http://example.com/wordScenery/index.html
+http://example.com/dailyPhoto/index.html
+http://example.com/album/index.html
+http://example.com/essay/index.html
 http://example.com/music/index.html
 http://example.com/link/index.html
 http://example.com/categories/index.html
