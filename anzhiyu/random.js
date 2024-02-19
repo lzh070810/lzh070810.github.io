@@ -1,6 +1,6 @@
 var posts=["article/4a17b156.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
-  };var friend_link_list=[];
+  };var friend_link_list=[{"name":"Hexo","link":"https://hexo.io/zh-tw/","avatar":"https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg","descr":"快速、简单且强大的网站框架"},{"name":"tangly1024","link":"https://blog.tangly1024.com/","avatar":"https://blog.tangly1024.com/favicon.ico","descr":"闻道有先后，术业有专攻","siteshot":"https://s2.loli.net/2024/02/19/lm6Vn7IQuWS4hpq.png","color":"vip","tag":"技术"},{"name":"LZH(自己)","link":"https://notion-next-zeta-sable.vercel.app/","avatar":"https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg","descr":"大陆用户被墙","recommend":true}];
     var refreshNum = 1;
     function friendChainRandomTransmission() {
       const randomIndex = Math.floor(Math.random() * friend_link_list.length);
