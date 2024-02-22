@@ -1,3 +1,4 @@
+http://example.com/article/4a17b157.html
 http://example.com/wordScenery/index.html
 http://example.com/dailyPhoto/index.html
 http://example.com/album/index.html
@@ -13,4 +14,7 @@ http://example.com/article/4a17b156.html
 http://example.com/
 http://example.com/tags/node-js/
 http://example.com/tags/hexo/
+http://example.com/tags/%E9%9D%92%E6%98%A5/
+http://example.com/tags/%E9%AB%98%E4%B8%AD/
 http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+http://example.com/categories/%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB/
