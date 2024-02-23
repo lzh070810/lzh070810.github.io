@@ -1,4 +1,4 @@
-http://example.com/article/666666.html
+http://example.com/article/404notfound.html
 http://example.com/wordScenery/index.html
 http://example.com/dailyPhoto/index.html
 http://example.com/album/index.html
