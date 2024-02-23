@@ -10887,6 +10887,12 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: 0.6s;
   transition: 0.6s;
   overflow: hidden;
+  -webkit-animation: header 5s linear forwards;
+  -moz-animation: header 5s linear forwards;
+  -o-animation: header 5s linear forwards;
+  -ms-animation: header 5s linear forwards;
+  animation: header 5s linear forwards;
+  animation-timeline: view();
   background-color: transparent;
 }
 #page-header.post-bg #nav {
@@ -16285,6 +16291,12 @@ li.card-category-list-item {
   background: url("/img/comment_bg.png") 100% 100% no-repeat;
 }
 #vcomment textarea:focus {
+  background-image: none;
+}
+#waline-wrap textarea {
+  background: url("https://unpkg.com/@waline/client@3.1.2/dist/waline.css") 100% 100% no-repeat;
+}
+#waline-wrap textarea:focus {
   background-image: none;
 }
 .fireworks {
