@@ -1,3 +1,4 @@
+http://example.com/bangumis/index.html
 http://example.com/categories/index.html
 http://example.com/article/404notfound.html
 http://example.com/air-conditioner/index.html
